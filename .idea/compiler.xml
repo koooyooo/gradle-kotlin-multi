@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="gradle-kotlin-multi_main" target="1.8" />
+      <module name="gradle-kotlin-multi_test" target="1.8" />
       <module name="kotlin-multi_main" target="1.8" />
       <module name="kotlin-multi_test" target="1.8" />
       <module name="repository_main" target="1.8" />

@@ -1,1 +1,3 @@
+rootProject.name = 'gradle-kotlin-multi'
+
 include 'service', 'repository'
